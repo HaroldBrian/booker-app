@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728920568482",
+    "project_id": "booker-apps",
+    "storage_bucket": "booker-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728920568482:android:f97350aa814e1fcb475dfb",
+        "android_client_info": {
+          "package_name": "com.booker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728920568482-cs23lagbblhlkgj3iq5b2ek0rulrcve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8hzXxuG0-AY4pe1OIoin-NumP9EmzHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728920568482-cs23lagbblhlkgj3iq5b2ek0rulrcve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
